@@ -1,0 +1,14 @@
+project_name: 'rapidapi'
+connection:
+  port: 5001
+  host: localhost
+
+rapidApi:
+  headers:
+    key: '3291e8b706mshd24ebbde1608191p102daajsnb00f043524a1'
+    host: 'apidojo-yahoo-finance-v1.p.rapidapi.com'
+  params:
+    symbol: "AMRN"
+    region: "US"
+    snippetCount: 28
+    uuid: '9803606d-a324-3864-83a8-2bd621e6ccbd'
